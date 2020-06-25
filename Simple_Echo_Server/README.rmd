@@ -1,0 +1,8 @@
+**COMPSCI 356 | SPRING 2020 | LAB 1 : ECHO SERVER WITH PYTHON SOCKET API**
+
+1. Name: Manmit Singh
+2. Date of Submission: 01/25/2020
+3. Comments –
+  1. The project has been modified to work in the python 3.x environment and hence is facing backward compatibility issues with the tester code.
+  2. Upon independent testing for small words, long sentences, complex strings and NaN inputs, the program returned satisfactory results.
+  3. A few comments and print statements have been added to enhance the readability of the code for the grader, and simplify debugging.
